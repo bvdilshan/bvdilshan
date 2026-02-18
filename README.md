@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=720&height=60&lines=Welcome+to+my+GitHub!;BIT+Undergraduate+%7C+UOM;Full-Stack+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=720&height=60&lines=Welcome+to+my+GitHub!;BIT+Undergraduate+%7C+UOM;Full-Stack+Developer;Backend+%26+DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,11 +28,9 @@
 
 ## 👋 About Me
 
-I am a **BIT Undergraduate at the University of Moratuwa**, deeply passionate about building scalable backend systems and exploring the world of **DevOps**. 
+I am a **BIT Undergraduate at the University of Moratuwa**, deeply passionate about building scalable systems and mastering **DevOps** workflows. Currently shifting my focus towards the **.NET ecosystem**.
 
-* 🔭 Currently building: **Vehicle Market Web App (MERN)**
-* ⚙️ Deep diving into: **Docker, Kubernetes & Linux**
-* 🌱 Learning: **Spring Boot & Advanced Java**
+* 🌱 Learning: **C# & .NET Core**
 * 🎯 Goal: To bridge the gap between **Development & Operations**
 
 ---
@@ -41,7 +39,7 @@ I am a **BIT Undergraduate at the University of Moratuwa**, deeply passionate ab
 
 ### 💻 Programming & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,java,py,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,express,py,react&theme=dark" />
 </p>
 
 ### ⚙️ DevOps & Infrastructure
@@ -62,7 +60,7 @@ I am a **BIT Undergraduate at the University of Moratuwa**, deeply passionate ab
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinoth-dilshan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvdilshan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
