@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=720&height=60&lines=Welcome+to+my+GitHub!;BIT+Undergraduate+%7C+UOM;Full-Stack+Developer;Backend+%26+DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=720&height=60&lines=Welcome+to+my+GitHub!;BIT+Undergraduate+%7C+UOM;Backend+%26+DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,8 +28,11 @@
 
 ## 👋 About Me
 
-I am a **BIT Undergraduate at the University of Moratuwa**, deeply passionate about building scalable systems and mastering **DevOps** workflows. Currently shifting my focus towards the **.NET ecosystem**.
+I am an undergraduate BIT student at the University of Moratuwa, passionate about building scalable systems and continuously improving my software engineering skills.
 
+Currently, I am focusing on the .NET ecosystem, exploring backend development, cloud-native architectures, and modern application design.
+
+Alongside development, I am actively learning DevOps practices — including CI/CD pipelines, containerization, and cloud deployment — with the goal of building efficient and reliable software delivery workflows.
 * 🌱 Learning: **C# & .NET Core**
 * 🎯 Goal: To bridge the gap between **Development & Operations**
 
