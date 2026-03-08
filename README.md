@@ -42,17 +42,17 @@ Alongside development, I am actively learning DevOps practices — including CI/
 
 ### 💻 Programming & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,express,py,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,express,py &theme=dark" />
 </p>
 
 ### ⚙️ DevOps & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,github,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws&theme=dark" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </p>
 
 ---
