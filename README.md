@@ -26,18 +26,6 @@
 
 ---
 
-## 👋 About Me
-
-I am an undergraduate BIT student at the University of Moratuwa, passionate about building scalable systems and continuously improving my software engineering skills.
-
-Currently, I am focusing on the .NET ecosystem, exploring backend development, cloud-native architectures, and modern application design.
-
-Alongside development, I am actively learning DevOps practices — including CI/CD pipelines, containerization, and cloud deployment — with the goal of building efficient and reliable software delivery workflows.
-* 🌱 Learning: **C# & .NET Core**
-* 🎯 Goal: To bridge the gap between **Development & Operations**
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming & Frameworks
