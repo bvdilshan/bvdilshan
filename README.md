@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-21-blue?style=flat-square&logo=clock" />
+  <img src="https://img.shields.io/badge/Age-22-blue?style=flat-square&logo=clock" />
   <img src="https://img.shields.io/badge/Country-Sri%20Lanka-success?style=flat-square&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Education-BIT%20UOM-orange?style=flat-square&logo=book" />
 </p>
