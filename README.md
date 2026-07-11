@@ -19,7 +19,7 @@
   <a href="https://bvdilshan.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-00F0FF?style=for-the-badge&logo=react&logoColor=black" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/vinoth-dilshan-581049310" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
