@@ -30,7 +30,7 @@
 
 ### 💻 Programming & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,express,py&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,nodejs,express,py&theme=dark" />
 </p>
 
 ### ⚙️ DevOps & Infrastructure
