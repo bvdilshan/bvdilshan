@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinoth Dilshan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=720&height=50&lines=BIT+Undergraduate+%7C+University+of+Moratuwa;Backend+%26+DevOps+Engineer;Java+%26+.NET+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=720&height=50&lines=BIT+Undergraduate+%7C+University+of+Moratuwa" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,31 +20,25 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,cs,spring,js,ts,nodejs,express&theme=dark" />
 </p>
 
-### ⚙️ DevOps & Cloud
+### DevOps & Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws&theme=dark" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bvdilshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvdilshan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=bvdilshan&color=00F0FF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
